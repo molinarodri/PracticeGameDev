@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 * [X] User can **fly a fish up and down a screen with taps**
 * [x] User can **view score and number of lives left**
-* [X] User **can play game again
+* [X] User **can re-play game after game over**
 
 ## Video Walkthrough
 
